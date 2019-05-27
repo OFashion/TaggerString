@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TaggerString</string>
+    <string name="app_name_format">This is a tagger test. You could put {normal_dynamic_text}, {bold_text}, {italic_text}, or {underline_text} here and replace them in your code.</string>
+</resources>
